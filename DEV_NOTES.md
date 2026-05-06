@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Resolved TODO items from previous session
 - Added basic retry logic for network requests
+
+## 2026-05-06
+- Updated CI cache strategy
