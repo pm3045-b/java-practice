@@ -12,3 +12,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Updated CI cache strategy
+
+## 2026-05-06
+- Tested build on clean environment
+- Drafted initial implementation plan for v2
